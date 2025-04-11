@@ -1,3 +1,10 @@
+![photo_2025-04-11 16 03 37](https://github.com/user-attachments/assets/a5497320-59a2-46fc-95bc-d15adc716cb5)
+![photo_2025-04-11 16 03 33](https://github.com/user-attachments/assets/09e5e79a-56fe-4ee4-9862-3e7e04ce768b)
+![photo_2025-04-11 16 03 30](https://github.com/user-attachments/assets/fddf4cbd-74d3-429d-9969-ae99f1b86c1d)
+![photo_2025-04-11 16 03 23](https://github.com/user-attachments/assets/13ced6f9-ff14-4d5c-ac29-2f4feb291c1d)
+![photo_2025-04-11 16 03 26](https://github.com/user-attachments/assets/2f70e270-8ce8-4bf0-9bb4-5d5f9a93fc07)
+![photo_2025-04-11 16 03 19](https://github.com/user-attachments/assets/06bd6def-b345-4792-b3eb-db019c2071d2)
+![photo_2025-04-11 16 03 14](https://github.com/user-attachments/assets/2f4ccbb8-968f-4f47-afb9-182e10c87b90)
 # network-analysis
 network analysis using wireshark
 Company had an incident of data exfiltration and as a member of network analysis team packets were captured during the incident and now we are to analyze and determine who triggered this incident what happened, when and where the incident took place and why the incident occured.
